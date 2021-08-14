@@ -16,4 +16,4 @@ The above 2 files contain useful comments
 
 ## Credits
 
-I could learn this because of help and guidance of these generous men - Mukul, Sahil, Himanshu, Harsh
+I couldn't have learnt this without the help and guidance of these generous men - [Mukul](https://github.com/mukul-mehta), [Sahil](http://github.com/sahil-shubham), [Himanshu](http://github.com/orkohunter), [Harsh](https://github.com/hargup)
